@@ -1,0 +1,37 @@
+Wizja:
+Aplikacja mająca za zadanie pokazywać na mapie kraju/wybranego miasta lokalizacje lokali serwujących dania Kebab. Użytkownicy mają możliwość przeglądania i dodawania opinii o danych lokalach.
+
+Wartość biznesowa:
+wyświetlanie reklam użytkownikom aplikacji
+
+Zakres:
+-Autoryzacja kont użytkowników
+-wyszukiwanie lokali w podanym mieście, opcje wyszukiwania po obecnej lokacji, zasięgu, po ocenie/opiniach
+-możliwość dodawania i przeglądania opinii lokali
+-możliwość dodawania i usuwania lokali
+-możliwość zgłaszania problemów w tym nie istniejących lokali
+-system rang/zaufania, na podstawie aktywności, i zgodności opinii z prawdą
+
+Role w projekcie:
+programiści: 3 frontend, 2 backend, 1 technical lead
+kierownik projektu: 1
+testerzy: 2
+test manager: 1
+UI/UX designer: 1
+sponsorzy(reklamy)
+PR manager: 1
+
+KPI - wskaźniki postępu:
+-stworzenie zarysu projektu
+-ukończenie i analiza dokumentacji
+-rozdysponowanie prac i przydzielenie pracowników
+-stworzenie bazy danych
+-stworzenie wersji alpha aplikacji
+-wdrożenie ważniejszych funkcji
+-wdrożenie aplikacji na serwery testowe
+-analiza i poprawki w aplikacji
+-stworzenie UI zgodnie z dokumentacją
+-testy aplikacji
+-prezentacja aplikacji
+-ewentualne poprawki w aplikacji
+-wdrożenie aplikacji na serwery publiczne
