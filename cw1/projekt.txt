@@ -1,0 +1,12 @@
+Cel projektu:
+Aplikacja webowa - mapa kebabów
+Aplikacja mająca za zadanie pokazywać na mapie kraju/wybranego miasta lokalizacje lokali serwujących dania Kebab. Użytkownicy mają możliwość przeglądania i dodawania opinii o danych lokalach.
+
+Osoby w zespole:
+programiści: 3 frontend, 2 backend, 1 zarządca systemu
+kierownik projektu
+testerzy: 2
+UI/UX designer: 1
+
+budżet (czas): ~3 miesiące
+~350 godzin
