@@ -8,11 +8,11 @@ polecenia
 inne
 
 estymacja formularz rejestracyjny w aplikacji webowej(metoda koszulkowa):
-przygotowanie bazy danych			|	L
-stworzenie prototypu aplikacji			|	M
-przygotowanie UX aplikacji			|	M
+przygotowanie bazy danych			          |	L
+stworzenie prototypu aplikacji			    |	M
+przygotowanie UX aplikacji			        |	M
 przygotowanie funkcjonalności aplikacji	|	L
-połączenie aplikacji z bazą danych		|	L
-testowanie techniczne			|	M
-stylowanie elementów				|	L
-testy UX					|	M
+połączenie aplikacji z bazą danych	  	|	L
+testowanie techniczne	               		|	M
+stylowanie elementów			            	|	L
+testy UX				                       	|	M
