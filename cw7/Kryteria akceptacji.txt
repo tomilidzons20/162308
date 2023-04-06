@@ -1,0 +1,28 @@
+Kryteria akceptacji: "Jako użytkownik chcę przesłać plik na serwer"
+
+0. Zalogowany użytkownik.
+1. W zakładce plik dostępny jest guzik “prześlij”.
+2. Użytkownik wybiera w menu miejsce do którego ma trafić plik, a następnie w wyświetlonym menu wybiera plik do przesłania
+3. Możliwe jest skorzystanie z interfejsu drag and drop, przeciągając w przestrzeń wybranego przez użytkownika folderu plik który chcemy przesłać.
+4. Następnie sprawdzane jest kryterium rozmiar pliku (max 200MB).
+5. W wypadku przekroczenia rozmiaru następuje zatrzymanie operacji i wyświetla się informacja o przekroczeniu rozmiaru pliku.
+6. Następnie sprawdzane jest kryterium długości nazwy pliku do (max 50 znaków, jeśli istnieje taka nazwa pliku to zostaje dopisana do niej numeracja np. “plik001”)
+7. W wypadku przekroczenia długości nazwy pliku, następuje przerwanie operacji i wyświetla się informacja o przekroczeniu limitu znaków.
+8. Następnie plik jest skanowany w poszukiwaniu malware, za pomocą zewnętrznego API.
+9. W wypadku wykrycia obecności malware, następuje przerwanie operacji i wyświetla się informacja o zablokowaniu przesłania niebezpiecznego pliku.
+10. Po spełnieniu wszystkich kryteriów plik przesyłany jest na serwer, wyświetla się pasek postępu przesyłania
+11. W wypadku powodzenia przesłania pliku, następuje przekierowanie do lokalizacji przesłanego pliku i wyświetla się informacja o powodzeniu operacji.
+12. W wypadku niepowodzenia przesłania pliku, następuje przerwanie operacji i wyświetla się informacja o niepowodzeniu operacji.
+
+
+"Jako użytkownik chce zmienić swoje hasło"
+
+0. Zalogowany użytkownik.
+1. W widoku konta użytkownika znajduje się przycisk ”zmień hasło”.
+2. Na środku ekranu wyświetla się okno zmiany hasła.
+3. Znajdują się tam pola: stare hasło, nowe hasło i powtórz nowe hasło
+4. Nowe hasło musi mieć minimum 8 znaków, maksimum 128 znaków, zawierać: przynajmniej jedną cyfrę, jedną wielką i jedną małą literę oraz jeden znak specjalny.
+5. W wypadku niespełnienia kryteriów nowego hasła wyświetla się informacja o niespełnieniu wymagań hasła.
+6. W wypadku wprowadzenia niepoprawnego starego hasła, następuje przerwanie operacji i wyświetla się informacja o niepoprawnym haśle.
+7. W przypadku powodzenia, hasło zapisywane jest w bazie danych w zaszyfrowanej formie.
+8. W przypadku powodzenia następuje powrót do widoku konta użytkownika i wyświetla się informacja o powodzeniu.

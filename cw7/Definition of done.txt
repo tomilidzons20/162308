@@ -1,0 +1,24 @@
+Definition of done
+
+
+Projekt webaplikacji służącej do dzielenia się plikami 
+1. Gotowa aplikacja z wszelkimi zdefiniowanymi funkcjonalnościami 
+2. Pokrycie testami jednostkowymi
+3. Pełna dokumentacja 
+4. Napisanie testów integracyjnych, penetracyjnych, jednostkowych
+5. Backup i zapis w chmurze 
+6. Przejście napisanych testów
+7. Optymalizacja bazy danych 
+8. Zapewnienie kompatybilności z różnymi urządzeniami 
+9. Przeprowadzenie testów kompatybilności
+10. Spełnione kryteria akceptacji 
+
+Epic Logowanie/Rejestracja/Zapomniane hasło 
+1. Pełne zaimplementowanie wymienionych funkcjonalności
+2. Uzupełnienie dokumentacji o wprowadzone funkcjonalności 
+3. Napisanie testów jednostkowych, integracyjnych, E2E
+4. Przejście napisanych testów 
+5. Przeprowadzenie migracji bazy danych
+6. Zapewnienie kompatybilności z różnymi urządzeniami 
+7. Przeprowadzenie testów kompatybilności
+8. Spełnione kryteria akceptacji
