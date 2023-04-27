@@ -1,0 +1,23 @@
+1. Mocne strony
+	- kompletny zespół 
+	- niskie koszty prowadzenia dzięki ulokowaniu w małym mieście
+	- stałe dochody dzięki sprzedaży i utrzymaniu oprogramowania
+	- własny sprzęt
+	- samodzielność firmy dzięki zatrudnieniu kadrowo-księgowej oraz przedstawicieli handlowych
+	- lokalizacja sprzyja niższym kosztom utrzymaniu biura
+	
+2. Słabe strony
+	- lokalizacja w małym mieście zmniejsza możliwości rozwoju (np. zatrudnienia)
+	- lokalizacja utrudnia bycie zauważonym przez potencjalnych klientów
+	- brak testerów i specjalistów UX
+
+3. Szanse
+	- potencjalnie niska konkurencja w mieście
+	- możliwość wejścia na rynek zagraniczny
+	- zmniejszenie wydatków bądź przyspieszenie realizacji projektów za pomocą narzędzi generujących kod
+	
+4. Ryzyka
+	- ucieczka programistów zatrudnionych jak i niezatrudnionych do większych miast
+	- zmniejszenie zysków z powodu wyludnienia się miasta
+	- jeden administrator może nie poradzić sobie z ilością wszystkich zadań
+	- wzrost opłat za utrzymanie biura
